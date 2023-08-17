@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mystic",
+	"version": "${version}",
+	"name": "Mystic Mod",
+	"description": "MMMMM FANCY FEASTS GIVE GIMME THE FANCY FEASTS IS ALL MINE HEHEHEHEHEHE https://www.petsmart.ca/featured-brands/fancy-feast/",
+	"authors": [
+		"Endercat126"
+	],
+	"contact": {
+		"homepage": "https://endercat.ca/",
+		"sources": "https://github.com/endercat126/mystic-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/mystic/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ca.endercat.mysticmod.MysticMod"
+		],
+		"client": [
+			"ca.endercat.mysticmod.MysticModClient"
+		],
+		"fabric-datagen": [
+			"ca.endercat.mysticmod.MysticModDataGenerator"
+		]
+	},
+	"mixins": [
+		"mystic.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
