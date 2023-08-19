@@ -38,10 +38,7 @@ Are you ready to embark on an extraordinary journey? Download the Mystic Mod now
 
 <br>
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/danger.svg">
->   <img alt="Danger" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/danger.svg">
-> </picture><br>
+> ![Danger](https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/danger.svg)
 >
 > If you've found this mod on any platform other than [Modrinth](https://modrinth.com/mod/mystic) or [GitHub](https://github.com/endercat126/mystic-mod), it is stolen and potentially compromised.
 
