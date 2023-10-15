@@ -43,5 +43,3 @@ Are you ready to embark on an extraordinary journey? Download the Mystic Mod now
 > If you've found this mod on any platform other than [Modrinth](https://modrinth.com/mod/mystic) or [GitHub](https://github.com/endercat126/mystic-mod), it is stolen and potentially compromised.
 
 <br>
-
-*...yes, this is all written by chatgippity*
